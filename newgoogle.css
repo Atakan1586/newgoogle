@@ -1,0 +1,66 @@
+.panel {
+    position: absolute;
+    right: 40px;
+    text-decoration:none;
+    
+}
+.header {
+    list-style-type:none;
+    text-decoration:none;
+}
+.pic {
+    border-radius: 1375px
+
+}
+.input-area {
+    position: absolute;
+    right: 480px;
+    top: 350px;
+    box-shadow: 2px 2px 6px #000;
+    
+}
+.container {
+    position: absolute;
+    right: 580px;
+    top: 200px;
+}
+.buttons {
+    position: absolute;
+    right: 640px;
+    top: 410px;
+    font-family: Arial;
+    color: #5f6368;
+    height: 36px;
+    text-size-adjust: 14px;
+    
+    
+}
+.googlesearch {
+    box-shadow: 2px 2px 6px #000;
+}
+.feelinglucky {
+    box-shadow: 2px 2px 6px #000;
+}
+
+.footerli {
+    position: absolute;
+    list-style-type:none;
+ 
+    top: 590px;
+    text-decoration:none;
+    
+     
+
+}
+
+.footerli1 { 
+position: absolute;
+    right: 100px;
+    top: 590px;
+    list-style-type:none;
+    text-decoration:none;
+}
+
+.footer {
+   background-color: #f2f2f2;
+}
